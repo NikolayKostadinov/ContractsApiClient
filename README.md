@@ -15,5 +15,4 @@ keytool.exe -import -file C:\Temp\FiddlerRoot.cer -keystore FiddlerKeystore -ali
 ```
 * Fiddler has to be configured an in picture:
 
-![Fiddler](https://github.com/NikolayKostadinov/ContractsApiClient/blob/main/doc/fiddler.png)
-
+![Fiddler](doc/fiddler.png)
